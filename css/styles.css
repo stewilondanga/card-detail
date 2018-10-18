@@ -12,6 +12,16 @@ body, html {
   padding: 0;
 }
 
+body {
+  background-color: #D2DBDD;
+  display: flex;
+  display: -webkit-flex;
+  -webkit-justify-content: center;
+  -webkit-align-items: center;
+  justify-content: center;
+  align-items: center;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -36,15 +46,6 @@ body, html {
 }
 
 
-body {
-  background-color: #D2DBDD;
-  display: flex;
-  display: -webkit-flex;
-  -webkit-justify-content: center;
-  -webkit-align-items: center;
-  justify-content: center;
-  align-items: center;
-}
 
 .cards {
     width: 100%;

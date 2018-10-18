@@ -71,11 +71,11 @@ body {
   margin-left: 5px;
 }
 
-/*.card__clock-info {
-    float: right;
+.card__clock-info {
+  float: right;
 }
 
-.card__img {
+/*.card__img {
   visibility: hidden;
     background-size: cover;
     background-position: center;

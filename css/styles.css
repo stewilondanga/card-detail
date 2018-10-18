@@ -58,12 +58,13 @@ body {
   width: 18px;
 }
 
-/*.card__clock {
-    width: 15px;
+.card__clock {
+  width: 15px;
   vertical-align: middle;
-    fill: #AD7D52;
+  fill: #AD7D52;
 }
-.card__time {
+
+/*.card__time {
     font-size: 12px;
     color: #AD7D52;
     vertical-align: middle;

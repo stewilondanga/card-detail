@@ -163,12 +163,12 @@ body {
   opacity: 0.3;
 }
 
-/*.card:hover .card__info {
-    background-color: transparent;
-    position: relative;
+.card:hover .card__info {
+  background-color: transparent;
+  position: relative;
 }
 
-.card:hover .card__info-hover {
+/*.card:hover .card__info-hover {
     opacity: 1;
 }
 

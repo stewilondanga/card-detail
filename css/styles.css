@@ -33,13 +33,11 @@ body {
   height: 2.5em;
 }
 
-/*.my_social a img {
+.my_social a img {
   height: 1.5em;
 }
 
-
-
-.cards {
+/*.cards {
     width: 100%;
     display: flex;
     display: -webkit-flex;

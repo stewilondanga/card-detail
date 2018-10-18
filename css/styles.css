@@ -168,11 +168,11 @@ body {
   position: relative;
 }
 
-/*.card:hover .card__info-hover {
-    opacity: 1;
+.card:hover .card__info-hover {
+  opacity: 1;
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
